@@ -1,5 +1,10 @@
 # customer-behavior-analysis
 
+## Businesses Problem Statement
+
+  Businesses collect large volumes of transactional data, but without proper cleaning, transformation and visualization. It's difficult to understand customer behavior, sales trends and product performance.
+  The Goal of this project was to convert raw shopping data into meaningful insights that can support data-driven decisions.
+
 ## Overview
 
 This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI.
