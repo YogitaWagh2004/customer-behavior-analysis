@@ -55,7 +55,7 @@ The project highlights practical data analytics skills commonly used in real-wor
 
   Built interactive visualizations
 
-  ## Power BI Dashboard
+## Power BI Dashboard
 
   - The Power BI dashboard provides:
 
